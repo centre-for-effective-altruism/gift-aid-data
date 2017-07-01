@@ -8,6 +8,7 @@
     "start": "npm run geocode && npm run generate",
     "geocode": "node geocode",
     "generate": "node generate",
+    "unfuck": "node unfuck-housenumbers",
     "missing": "node missing"
   },
   "author": "",
